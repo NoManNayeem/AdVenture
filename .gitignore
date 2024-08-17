@@ -1,0 +1,57 @@
+# Ignore node_modules (React frontend dependencies)
+**/node_modules/
+
+# Ignore build output (React frontend)
+**/build/
+
+# Ignore logs
+**/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore database files (Django backend)
+**/db.sqlite3
+**/*.sqlite3-journal
+
+# Ignore environment files
+.env
+**/.env
+
+# Ignore Python bytecode
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+
+# Ignore Django migrations
+**/migrations/
+
+# Ignore compiled Python files
+**/*.pyc
+
+# Ignore virtual environment (Python backend)
+**/venv/
+**/.venv/
+
+# Ignore static files (Django backend)
+**/staticfiles/
+**/media/
+
+# Ignore coverage files
+**/coverage/
+**/.coverage
+**/.coverage.*
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
