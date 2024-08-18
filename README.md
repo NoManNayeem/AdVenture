@@ -86,3 +86,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries, please reach out to the project maintainer at [email@example.com](mailto:email@example.com).
+
+
+# Final Project Goal:
+*  [Backend Goal:](./Backend_Features.md)
+*  [Frontend Goal:](./FrontEnd_Features.md)
+
+### Project Features Map
+<p align="center">
+  <img src="./AdVenture_Flowchart.png" alt="Screenshot 1" style="margin: 10px; border: 2px solid #ddd; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
+
+### Project Mind Map
+<p align="center">
+  <img src="./AdVenture_MindMap.png" alt="Screenshot 1" style="width:90%; height:100%; margin: 10px; border: 2px solid #ddd; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
